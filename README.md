@@ -1,3 +1,2 @@
-# prog2Leonel
-Leonel eguez 
-progracion 2
+Binary Bros
+Leonel Eguez
