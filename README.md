@@ -1,3 +1,4 @@
 # prog2Leonel
 Leonel eguez 
-dasdas
+programacion 2
+3er semestre
